@@ -1,0 +1,6 @@
+{
+  "name": "KCIRE Virtual Assistant",
+  "description": "Futuristic mobile-first AI assistant interface with a J.A.R.V.I.S. inspired visual style.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": []
+}
